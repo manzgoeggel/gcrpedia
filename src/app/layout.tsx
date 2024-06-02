@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "GCRPedia",
-  description: "GCRPedia",
+  description: "An overview of all GCRs",
 };
 
 export default function RootLayout({

@@ -1,7 +1,7 @@
 /* eslint-disable @next/next/no-img-element */
 "use client";
 
-import gcrs from "../../gcr-list/gcrs.json";
+import gcrs from "../../gcrs.json";
 
 import { useEffect, useState } from "react";
 import axios from "axios";
@@ -37,7 +37,7 @@ const Home = () => {
 									}}
 									className="flex items-center  space-x-2  group cursor-pointer"
 								>
-									<p className="text-gray-500 group-hover:text-gray-400 ease-in duration-150 ">Created by @mangoeggel</p>
+									<p className="text-gray-500 group-hover:text-gray-400 ease-in duration-150 ">Created by @manzgoeggel</p>
 									<img
 										alt=""
 										className="h-4 w-4 rounded-full group-hover:opacity-75 ease-in duration-150"
@@ -48,6 +48,9 @@ const Home = () => {
 						</div>
 						<div className="mt-4 sm:ml-16 sm:mt-0 sm:flex-none">
 							<button
+								onClick={() => {
+									window.open("https://github.com/manzgoeggel/gcrpedia", "_blank");
+								}}
 								type="button"
 								className="block rounded-md bg-blue-600 px-3 py-2 text-center text-sm font-semibold text-white shadow-sm hover:bg-blue-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600 transition-all duration-150 ease-in"
 							>

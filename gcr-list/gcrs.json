@@ -29,6 +29,13 @@
             "twitterHandle": "SpeakerPelosi",
             "twitterImgUrl": "https://pbs.twimg.com/profile_images/1114294290375688193/P9mcJNGb_400x400.png",
             "gcrType": "Granny GCR"
+        },
+        {
+            "twitterName": "Nico",
+            "twitterHandle": "cryptopapi997",
+            "twitterImgUrl": "https://pbs.twimg.com/profile_images/1639288639610843143/OmYE_cia_400x400.jpg",
+            "gcrType": "GCR Papi"
         }
+
     ]
 }

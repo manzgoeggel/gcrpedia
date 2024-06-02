@@ -53,6 +53,12 @@
             "twitterHandle": "gambidtheory",
             "twitterImgUrl": "https://pbs.twimg.com/profile_images/1748580515668701184/fNgO-J0k_400x400.jpg",
             "gcrType": "Polymarket GCR"
+        },
+        {
+            "twitterName": "Chiefing",
+            "twitterHandle": "chiefingza",
+            "twitterImgUrl": "https://pbs.twimg.com/profile_images/1759256121905233920/O4ZSkOm6_400x400.jpg",
+            "gcrType": "Green GCR"
         }
     ]
 }

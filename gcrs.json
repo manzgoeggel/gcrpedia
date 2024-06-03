@@ -89,6 +89,12 @@
             "twitterHandle": "AWice",
             "twitterImgUrl": "https://pbs.twimg.com/profile_images/1493627761856249856/N-hdB1DB_400x400.jpg",
             "gcrType": "Wice city GCR"
+        },
+        {
+            "twitterName": "Tarun Chitra",
+            "twitterHandle": "tarunchitra",
+            "twitterImgUrl": "https://pbs.twimg.com/profile_images/1587539091444432897/Z6_nmrCB_400x400.jpg",
+            "gcrType": "Physics + Math GCR"
         }
     ]
 }

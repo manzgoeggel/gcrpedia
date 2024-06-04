@@ -125,6 +125,12 @@
             "twitterHandle": "zoomerfied",
             "twitterImgUrl": "https://pbs.twimg.com/profile_images/1764011402304405504/TSlj7Ces_400x400.jpg",
             "gcrType": "News GCR"
+        },
+        {
+            "twitterName": "RunnerXBT",
+            "twitterHandle": "RunnerXBT",
+            "twitterImgUrl": "https://pbs.twimg.com/profile_images/1742128056142045185/gJHwBbTT_400x400.jpg",
+            "gcrType": "Marathon GCR"
         }
     ]
 }

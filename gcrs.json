@@ -107,6 +107,12 @@
             "twitterHandle": "HsakaTrades",
             "twitterImgUrl": "https://pbs.twimg.com/profile_images/1690929913270792192/6n-PzBnB_400x400.jpg",
             "gcrType": "Indian GCR"
+        },
+        {
+            "twitterName": "Jonah",
+            "twitterHandle": "jvb_xyz",
+            "twitterImgUrl": "https://pbs.twimg.com/profile_images/1735599963969556481/YxZMdKMn_400x400.jpg",
+            "gcrType": "Commodities GCR"
         }
     ]
 }

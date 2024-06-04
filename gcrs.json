@@ -125,6 +125,12 @@
             "twitterHandle": "TheFlowHorse",
             "twitterImgUrl": "https://pbs.twimg.com/profile_images/1609924605421944836/veyUE6Qs_400x400.jpg",
             "gcrType": "Horse GCR"
+        },
+        {
+            "twitterName": "zoomer",
+            "twitterHandle": "zoomerfied",
+            "twitterImgUrl": "https://pbs.twimg.com/profile_images/1764011402304405504/TSlj7Ces_400x400.jpg",
+            "gcrType": "News GCR"
         }
     ]
 }

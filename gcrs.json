@@ -137,6 +137,18 @@
             "twitterHandle": "Awawat_Trades",
             "twitterImgUrl": "https://pbs.twimg.com/profile_images/1705441078193926144/gLmTqHQN_400x400.jpg",
             "gcrType": "Elephant GCR"
+        },
+        {
+            "twitterName": "Tree (🌲,🌲)",
+            "twitterHandle": "Tree_of_Alpha",
+            "twitterImgUrl": "https://pbs.twimg.com/profile_images/1685748240623304706/ZfNYMer1_400x400.jpg",
+            "gcrType": "French GCR"
+        },
+        {
+            "twitterName": "Andrei Grachev",
+            "twitterHandle": "ag_dwf",
+            "twitterImgUrl": "https://pbs.twimg.com/profile_images/1647987537649053697/oP9CP_NZ_400x400.jpg",
+            "gcrType": "Russian GCR"
         }
     ]
 }
